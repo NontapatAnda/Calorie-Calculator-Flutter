@@ -14,3 +14,7 @@ Designed for users who want to manage their diet and track daily calorie intake.
 - Reset calculation with a single tap
 
 - Clean and user-friendly UI
+
+## Screenshot
+- Homepage
+![image alt](https://github.com/NontapatAnda/Calorie-Calculator-Flutter/blob/9dc62e1a14b7b3716cb10440e5b42d64f3617972/HomePage.png)
