@@ -1,16 +1,16 @@
-# osu_app
+#Calorie Calculator (Flutter)
 
-A new Flutter project.
+A calorie calculator application built with Flutter.
+Designed for users who want to manage their diet and track daily calorie intake.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+-Select food categories (e.g. Grain, Fruit, Protein)
 
-A few resources to get you started if this is your first Flutter project:
+-Display calories per 100g
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Real-time total calorie calculation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Reset calculation with a single tap
+
+-Clean and user-friendly UI
